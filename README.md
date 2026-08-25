@@ -200,7 +200,7 @@ Designed and shipped multiple full-stack applications spanning recruitment tech,
 <br/>
 <img src="https://img.shields.io/badge/Cisco_Certification-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a103d"/>
 
-> *Replace the badges above with your actual certification names/links.*
+
 
 ---
 
