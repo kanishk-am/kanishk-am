@@ -58,21 +58,42 @@ I care about **engineering fundamentals** (DBMS, OS, networks) as much as shippi
 
 ## 🛠️ Tech Stack
 
+> *Hover over any icon to see its name.*
+
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,java,py,c,html,css&theme=dark"/>
+<img title="JavaScript" alt="JavaScript" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;
+<img title="Java" alt="Java" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;&nbsp;
+<img title="Python" alt="Python" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;
+<img title="C" alt="C" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>&nbsp;&nbsp;
+<img title="HTML5" alt="HTML5" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
+<img title="CSS3" alt="CSS3" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+
+<br/><br/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,vue&theme=dark"/>
+<img title="React" alt="React" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;&nbsp;
+<img title="Tailwind CSS" alt="Tailwind CSS" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>&nbsp;&nbsp;
+<img title="Vite" alt="Vite" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
+
+<br/><br/>
 
 **Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark"/>
+<img title="Node.js" alt="Node.js" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;&nbsp;
+<img title="MongoDB" alt="MongoDB" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>&nbsp;&nbsp;
+<img title="MySQL" alt="MySQL" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>&nbsp;&nbsp;
+<img title="Firebase" alt="Firebase" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+
+<br/><br/>
 
 **Cloud, DevOps & Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark"/>
+<img title="Git" alt="Git" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;
+<img title="GitHub" alt="GitHub" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>&nbsp;&nbsp;
+<img title="VS Code" alt="VS Code" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>&nbsp;&nbsp;
+<img title="Vercel" alt="Vercel" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/>
 
 ---
 
@@ -199,8 +220,6 @@ Designed and shipped multiple full-stack applications spanning recruitment tech,
 **Cisco**
 <br/>
 <img src="https://img.shields.io/badge/Cisco_Certification-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a103d"/>
-
-
 
 ---
 
