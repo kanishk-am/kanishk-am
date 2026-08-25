@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓_Final_Year-CSE-6d28d9?style=for-the-badge&labelColor=1a103d"/>
-<img src="https://img.shields.io/badge/🏛_Velalar_College_of_Engineering-Anna_University-6d28d9?style=for-the-badge&labelColor=1a103d"/>
+<img src="https://img.shields.io/badge/🎓_Third_Year-CSE Student-6d28d9?style=for-the-badge&labelColor=1a103d"/>
+<img src="https://img.shields.io/badge/🏛_Velalar_College_of_Engineering_and_Technology-Anna_University-6d28d9?style=for-the-badge&labelColor=1a103d"/>
 <img src="https://img.shields.io/badge/📍_Erode,_Tamil_Nadu-6d28d9?style=for-the-badge&labelColor=1a103d"/>
 
 <br/><br/>
