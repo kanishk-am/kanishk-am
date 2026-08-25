@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a103d,50:6d28d9,100:a78bfa&height=220&section=header&text=Hi%20There,%20I'm%20Abu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Final%20Year%20CSE&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a103d,50:6d28d9,100:a78bfa&height=220&section=header&text=Hi%20There,%20I'm%20Kanishk&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Third%20Year%20CSE%20Student&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps;React+%7C+Node.js+%7C+Firebase+%7C+AI+Integrations;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
@@ -33,7 +33,7 @@
 ## 🧠 About Me
 
 ```yaml
-role: "Final Year Computer Science & Engineering Student"
+role: "Third Year Computer Science & Engineering Student"
 institution: "Velalar College of Engineering and Technology (Anna University)"
 location: "Erode, Tamil Nadu, India"
 focus: "Full-Stack Web Development · AI/ML Integrations · Product Engineering"
@@ -174,7 +174,7 @@ Designed and shipped multiple full-stack applications spanning recruitment tech,
 
 | Recognition | Details |
 |---|---|
-| 🎓 Academic Standing | Final-year CSE, Anna University affiliated curriculum |
+| 🎓 Academic Standing | Third-year CSE, Anna University affiliated curriculum |
 | 🧩 Smart India Hackathon | Reviewed SIH 2026 problem statements for potential participation |
 | 🛠 Independent Builder | Shipped 3+ full-stack/AI/IoT projects outside coursework |
 
